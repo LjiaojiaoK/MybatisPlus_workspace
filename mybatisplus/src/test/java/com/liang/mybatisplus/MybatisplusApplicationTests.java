@@ -9,6 +9,7 @@ class MybatisplusApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("111");
+        System.out.println("hot-fix");
     }
 
 }
